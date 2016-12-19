@@ -1,0 +1,898 @@
+
+The load is 10
+The client_num is 20
+The total tx amount is 58503
+The total collision amount is 20890
+The total success amount is 37613
+The total data amount is 3.99765e+008
+The wifi tx amount is 28367
+The wifi collision amount is 8434
+The wifi success amount is 19933
+The wifi collision ratio is 0.297317
+The wifi data amount is 3.9866e+008
+
+The zigbee tx amount is 30136
+The zigbee collision amount is 12456
+The zigbee success amount is 17680
+The zigbee collision ratio is 0.413326
+The zigbee data amount is 1096160
+The ratio is 0.47005
+
+The load is 20
+The client_num is 20
+The total tx amount is 115804
+The total collision amount is 58363
+The total success amount is 57441
+The total data amount is 7.95827e+008
+The wifi tx amount is 70536
+The wifi collision amount is 30800
+The wifi success amount is 39736
+The wifi collision ratio is 0.436656
+The wifi data amount is 7.9472e+008
+
+The zigbee tx amount is 45268
+The zigbee collision amount is 27563
+The zigbee success amount is 17705
+The zigbee collision ratio is 0.608885
+The zigbee data amount is 1097710
+The ratio is 0.308229
+
+The load is 30
+The client_num is 20
+The total tx amount is 101815
+The total collision amount is 48939
+The total success amount is 52875
+The total data amount is 1.0562e+009
+The wifi tx amount is 94183
+The wifi collision amount is 41372
+The wifi success amount is 52810
+The wifi collision ratio is 0.439272
+The wifi data amount is 1.0562e+009
+
+The zigbee tx amount is 7632
+The zigbee collision amount is 7567
+The zigbee success amount is 65
+The zigbee collision ratio is 0.991483
+The zigbee data amount is 4030
+The ratio is 0.00122931
+
+The load is 40
+The client_num is 20
+The total tx amount is 101502
+The total collision amount is 48671
+The total success amount is 52830
+The total data amount is 1.0561e+009
+The wifi tx amount is 94245
+The wifi collision amount is 41439
+The wifi success amount is 52805
+The wifi collision ratio is 0.439694
+The wifi data amount is 1.0561e+009
+
+The zigbee tx amount is 7257
+The zigbee collision amount is 7232
+The zigbee success amount is 25
+The zigbee collision ratio is 0.996555
+The zigbee data amount is 1550
+The ratio is 0.000473216
+
+The load is 50
+The client_num is 20
+The total tx amount is 101651
+The total collision amount is 48656
+The total success amount is 52994
+The total data amount is 1.05922e+009
+The wifi tx amount is 94260
+The wifi collision amount is 41298
+The wifi success amount is 52961
+The wifi collision ratio is 0.438129
+The wifi data amount is 1.05922e+009
+
+The zigbee tx amount is 7391
+The zigbee collision amount is 7358
+The zigbee success amount is 33
+The zigbee collision ratio is 0.995535
+The zigbee data amount is 2046
+The ratio is 0.000622712
+
+The load is 60
+The client_num is 20
+The total tx amount is 101336
+The total collision amount is 48439
+The total success amount is 52897
+The total data amount is 1.05734e+009
+The wifi tx amount is 94208
+The wifi collision amount is 41341
+The wifi success amount is 52867
+The wifi collision ratio is 0.438827
+The wifi data amount is 1.05734e+009
+
+The zigbee tx amount is 7128
+The zigbee collision amount is 7098
+The zigbee success amount is 30
+The zigbee collision ratio is 0.995791
+The zigbee data amount is 1860
+The ratio is 0.00056714
+
+The load is 70
+The client_num is 20
+The total tx amount is 101445
+The total collision amount is 48422
+The total success amount is 53022
+The total data amount is 1.06e+009
+The wifi tx amount is 94301
+The wifi collision amount is 41300
+The wifi success amount is 53000
+The wifi collision ratio is 0.437959
+The wifi data amount is 1.06e+009
+
+The zigbee tx amount is 7144
+The zigbee collision amount is 7122
+The zigbee success amount is 22
+The zigbee collision ratio is 0.99692
+The zigbee data amount is 1364
+The ratio is 0.000414922
+
+The load is 80
+The client_num is 20
+The total tx amount is 101308
+The total collision amount is 48316
+The total success amount is 52991
+The total data amount is 1.05928e+009
+The wifi tx amount is 94298
+The wifi collision amount is 41333
+The wifi success amount is 52964
+The wifi collision ratio is 0.438323
+The wifi data amount is 1.05928e+009
+
+The zigbee tx amount is 7010
+The zigbee collision amount is 6983
+The zigbee success amount is 27
+The zigbee collision ratio is 0.996148
+The zigbee data amount is 1674
+The ratio is 0.00050952
+
+The load is 90
+The client_num is 20
+The total tx amount is 101316
+The total collision amount is 48386
+The total success amount is 52930
+The total data amount is 1.05816e+009
+The wifi tx amount is 94298
+The wifi collision amount is 41390
+The wifi success amount is 52908
+The wifi collision ratio is 0.438928
+The wifi data amount is 1.05816e+009
+
+The zigbee tx amount is 7018
+The zigbee collision amount is 6996
+The zigbee success amount is 22
+The zigbee collision ratio is 0.996865
+The zigbee data amount is 1364
+The ratio is 0.000415643
+
+The load is 100
+The client_num is 20
+The total tx amount is 101464
+The total collision amount is 48667
+The total success amount is 52796
+The total data amount is 1.05546e+009
+The wifi tx amount is 94245
+The wifi collision amount is 41471
+The wifi success amount is 52773
+The wifi collision ratio is 0.440034
+The wifi data amount is 1.05546e+009
+
+The zigbee tx amount is 7219
+The zigbee collision amount is 7196
+The zigbee success amount is 23
+The zigbee collision ratio is 0.996814
+The zigbee data amount is 1426
+The ratio is 0.000435639
+
+The load is 10
+The client_num is 5
+The total tx amount is 10819
+The total collision amount is 968
+The total success amount is 9851
+The total data amount is 1.00243e+008
+The wifi tx amount is 5343
+The wifi collision amount is 346
+The wifi success amount is 4997
+The wifi collision ratio is 0.0647576
+The wifi data amount is 9.994e+007
+
+The zigbee tx amount is 5476
+The zigbee collision amount is 622
+The zigbee success amount is 4854
+The zigbee collision ratio is 0.113587
+The zigbee data amount is 300948
+The ratio is 0.492742
+
+The load is 20
+The client_num is 5
+The total tx amount is 16685
+The total collision amount is 1854
+The total success amount is 14831
+The total data amount is 1.99863e+008
+The wifi tx amount is 10864
+The wifi collision amount is 886
+The wifi success amount is 9978
+The wifi collision ratio is 0.0815538
+The wifi data amount is 1.9956e+008
+
+The zigbee tx amount is 5821
+The zigbee collision amount is 968
+The zigbee success amount is 4853
+The zigbee collision ratio is 0.166294
+The zigbee data amount is 300886
+The ratio is 0.32722
+
+The load is 30
+The client_num is 5
+The total tx amount is 23360
+The total collision amount is 3562
+The total success amount is 19798
+The total data amount is 2.99562e+008
+The wifi tx amount is 17261
+The wifi collision amount is 2298
+The wifi success amount is 14963
+The wifi collision ratio is 0.133132
+The wifi data amount is 2.9926e+008
+
+The zigbee tx amount is 6099
+The zigbee collision amount is 1264
+The zigbee success amount is 4835
+The zigbee collision ratio is 0.207247
+The zigbee data amount is 299770
+The ratio is 0.244217
+
+The load is 40
+The client_num is 5
+The total tx amount is 30496
+The total collision amount is 5723
+The total success amount is 24773
+The total data amount is 3.99162e+008
+The wifi tx amount is 24186
+The wifi collision amount is 4243
+The wifi success amount is 19943
+The wifi collision ratio is 0.175432
+The wifi data amount is 3.9886e+008
+
+The zigbee tx amount is 6310
+The zigbee collision amount is 1480
+The zigbee success amount is 4830
+The zigbee collision ratio is 0.234548
+The zigbee data amount is 299460
+The ratio is 0.19497
+
+The load is 50
+The client_num is 5
+The total tx amount is 38286
+The total collision amount is 8558
+The total success amount is 29728
+The total data amount is 4.97744e+008
+The wifi tx amount is 31782
+The wifi collision amount is 6910
+The wifi success amount is 24872
+The wifi collision ratio is 0.217419
+The wifi data amount is 4.9744e+008
+
+The zigbee tx amount is 6504
+The zigbee collision amount is 1648
+The zigbee success amount is 4856
+The zigbee collision ratio is 0.253383
+The zigbee data amount is 301072
+The ratio is 0.163348
+
+The load is 60
+The client_num is 5
+The total tx amount is 46122
+The total collision amount is 11431
+The total success amount is 34691
+The total data amount is 5.97004e+008
+The wifi tx amount is 39489
+The wifi collision amount is 9654
+The wifi success amount is 29835
+The wifi collision ratio is 0.244473
+The wifi data amount is 5.967e+008
+
+The zigbee tx amount is 6633
+The zigbee collision amount is 1777
+The zigbee success amount is 4856
+The zigbee collision ratio is 0.267903
+The zigbee data amount is 301072
+The ratio is 0.139979
+
+The load is 70
+The client_num is 5
+The total tx amount is 53788
+The total collision amount is 14142
+The total success amount is 39646
+The total data amount is 6.96163e+008
+The wifi tx amount is 46837
+The wifi collision amount is 12044
+The wifi success amount is 34793
+The wifi collision ratio is 0.257147
+The wifi data amount is 6.9586e+008
+
+The zigbee tx amount is 6951
+The zigbee collision amount is 2098
+The zigbee success amount is 4853
+The zigbee collision ratio is 0.301827
+The zigbee data amount is 300886
+The ratio is 0.122408
+
+The load is 80
+The client_num is 5
+The total tx amount is 61506
+The total collision amount is 16897
+The total success amount is 44609
+The total data amount is 7.95503e+008
+The wifi tx amount is 54227
+The wifi collision amount is 14467
+The wifi success amount is 39760
+The wifi collision ratio is 0.266786
+The wifi data amount is 7.952e+008
+
+The zigbee tx amount is 7279
+The zigbee collision amount is 2430
+The zigbee success amount is 4849
+The zigbee collision ratio is 0.333837
+The zigbee data amount is 300638
+The ratio is 0.1087
+
+The load is 90
+The client_num is 5
+The total tx amount is 69316
+The total collision amount is 19799
+The total success amount is 49517
+The total data amount is 8.93364e+008
+The wifi tx amount is 61429
+The wifi collision amount is 16776
+The wifi success amount is 44653
+The wifi collision ratio is 0.273096
+The wifi data amount is 8.9306e+008
+
+The zigbee tx amount is 7887
+The zigbee collision amount is 3023
+The zigbee success amount is 4864
+The zigbee collision ratio is 0.383289
+The zigbee data amount is 301568
+The ratio is 0.0982289
+
+The load is 100
+The client_num is 5
+The total tx amount is 77120
+The total collision amount is 22720
+The total success amount is 54400
+The total data amount is 9.91702e+008
+The wifi tx amount is 68462
+The wifi collision amount is 18892
+The wifi success amount is 49570
+The wifi collision ratio is 0.275949
+The wifi data amount is 9.914e+008
+
+The zigbee tx amount is 8658
+The zigbee collision amount is 3828
+The zigbee success amount is 4830
+The zigbee collision ratio is 0.442134
+The zigbee data amount is 299460
+The ratio is 0.0887868
+
+*************************************************************************************************************
+The load is 10
+The client_num is 10
+The total tx amount is 24204
+The total collision amount is 4785
+The total success amount is 19419
+The total data amount is 2.0027e+008
+The wifi tx amount is 11691
+The wifi collision amount is 1707
+The wifi success amount is 9984
+The wifi collision ratio is 0.14601
+The wifi data amount is 1.9968e+008
+
+The zigbee tx amount is 12513
+The zigbee collision amount is 3078
+The zigbee success amount is 9435
+The zigbee collision ratio is 0.245984
+The zigbee data amount is 584970
+The ratio is 0.485864
+
+The load is 20
+The client_num is 10
+The total tx amount is 39910
+The total collision amount is 10574
+The total success amount is 29336
+The total data amount is 3.99467e+008
+The wifi tx amount is 26351
+The wifi collision amount is 6407
+The wifi success amount is 19944
+The wifi collision ratio is 0.243141
+The wifi data amount is 3.9888e+008
+
+The zigbee tx amount is 13559
+The zigbee collision amount is 4167
+The zigbee success amount is 9392
+The zigbee collision ratio is 0.307324
+The zigbee data amount is 582304
+The ratio is 0.320153
+
+The load is 30
+The client_num is 10
+The total tx amount is 58153
+The total collision amount is 18884
+The total success amount is 39269
+The total data amount is 5.97449e+008
+The wifi tx amount is 43907
+The wifi collision amount is 14064
+The wifi success amount is 29843
+The wifi collision ratio is 0.320313
+The wifi data amount is 5.9686e+008
+
+The zigbee tx amount is 14246
+The zigbee collision amount is 4820
+The zigbee success amount is 9426
+The zigbee collision ratio is 0.338341
+The zigbee data amount is 584412
+The ratio is 0.240037
+
+The load is 40
+The client_num is 10
+The total tx amount is 78867
+The total collision amount is 29716
+The total success amount is 49151
+The total data amount is 7.95528e+008
+The wifi tx amount is 61922
+The wifi collision amount is 22175
+The wifi success amount is 39747
+The wifi collision ratio is 0.358112
+The wifi data amount is 7.9494e+008
+
+The zigbee tx amount is 16945
+The zigbee collision amount is 7541
+The zigbee success amount is 9404
+The zigbee collision ratio is 0.445028
+The zigbee data amount is 583048
+The ratio is 0.191329
+
+The load is 50
+The client_num is 10
+The total tx amount is 98422
+The total collision amount is 39475
+The total success amount is 58947
+The total data amount is 9.92086e+008
+The wifi tx amount is 78018
+The wifi collision amount is 28443
+The wifi success amount is 49575
+The wifi collision ratio is 0.36457
+The wifi data amount is 9.915e+008
+
+The zigbee tx amount is 20404
+The zigbee collision amount is 11032
+The zigbee success amount is 9372
+The zigbee collision ratio is 0.540678
+The zigbee data amount is 581064
+The ratio is 0.15899
+
+The load is 60
+The client_num is 10
+The total tx amount is 98616
+The total collision amount is 39301
+The total success amount is 59314
+The total data amount is 1.17787e+009
+The wifi tx amount is 92051
+The wifi collision amount is 33158
+The wifi success amount is 58892
+The wifi collision ratio is 0.360213
+The wifi data amount is 1.17784e+009
+
+The zigbee tx amount is 6565
+The zigbee collision amount is 6143
+The zigbee success amount is 422
+The zigbee collision ratio is 0.93572
+The zigbee data amount is 26164
+The ratio is 0.00711468
+
+The load is 70
+The client_num is 10
+The total tx amount is 97937
+The total collision amount is 38973
+The total success amount is 58963
+The total data amount is 1.17826e+009
+The wifi tx amount is 92848
+The wifi collision amount is 33934
+The wifi success amount is 58913
+The wifi collision ratio is 0.365479
+The wifi data amount is 1.17826e+009
+
+The zigbee tx amount is 5089
+The zigbee collision amount is 5039
+The zigbee success amount is 50
+The zigbee collision ratio is 0.990175
+The zigbee data amount is 3100
+The ratio is 0.000847989
+
+The load is 80
+The client_num is 10
+The total tx amount is 97976
+The total collision amount is 39136
+The total success amount is 58839
+The total data amount is 1.17608e+009
+The wifi tx amount is 92908
+The wifi collision amount is 34103
+The wifi success amount is 58804
+The wifi collision ratio is 0.367062
+The wifi data amount is 1.17608e+009
+
+The zigbee tx amount is 5068
+The zigbee collision amount is 5033
+The zigbee success amount is 35
+The zigbee collision ratio is 0.993094
+The zigbee data amount is 2170
+The ratio is 0.000594844
+
+The load is 90
+The client_num is 10
+The total tx amount is 98025
+The total collision amount is 39064
+The total success amount is 58960
+The total data amount is 1.1782e+009
+The wifi tx amount is 92838
+The wifi collision amount is 33927
+The wifi success amount is 58910
+The wifi collision ratio is 0.365443
+The wifi data amount is 1.1782e+009
+
+The zigbee tx amount is 5187
+The zigbee collision amount is 5137
+The zigbee success amount is 50
+The zigbee collision ratio is 0.990361
+The zigbee data amount is 3100
+The ratio is 0.000848033
+
+The load is 100
+The client_num is 10
+The total tx amount is 97971
+The total collision amount is 39094
+The total success amount is 58876
+The total data amount is 1.17676e+009
+The wifi tx amount is 92912
+The wifi collision amount is 34073
+The wifi success amount is 58838
+The wifi collision ratio is 0.366723
+The wifi data amount is 1.17676e+009
+
+The zigbee tx amount is 5059
+The zigbee collision amount is 5021
+The zigbee success amount is 38
+The zigbee collision ratio is 0.992489
+The zigbee data amount is 2356
+The ratio is 0.000645424
+
+The load is 10
+The client_num is 20
+The total tx amount is 58799
+The total collision amount is 21174
+The total success amount is 37625
+The total data amount is 3.99666e+008
+The wifi tx amount is 28310
+The wifi collision amount is 8382
+The wifi success amount is 19928
+The wifi collision ratio is 0.296079
+The wifi data amount is 3.9856e+008
+
+The zigbee tx amount is 30489
+The zigbee collision amount is 12792
+The zigbee success amount is 17697
+The zigbee collision ratio is 0.419561
+The zigbee data amount is 1097214
+The ratio is 0.470352
+
+The load is 20
+The client_num is 20
+The total tx amount is 116674
+The total collision amount is 59183
+The total success amount is 57491
+The total data amount is 7.9583e+008
+The wifi tx amount is 70842
+The wifi collision amount is 31106
+The wifi success amount is 39736
+The wifi collision ratio is 0.43909
+The wifi data amount is 7.9472e+008
+
+The zigbee tx amount is 45832
+The zigbee collision amount is 28077
+The zigbee success amount is 17755
+The zigbee collision ratio is 0.612607
+The zigbee data amount is 1100810
+The ratio is 0.308831
+
+The load is 30
+The client_num is 20
+The total tx amount is 101563
+The total collision amount is 48435
+The total success amount is 53127
+The total data amount is 1.0618e+009
+The wifi tx amount is 94188
+The wifi collision amount is 41097
+The wifi success amount is 53090
+The wifi collision ratio is 0.436329
+The wifi data amount is 1.0618e+009
+
+The zigbee tx amount is 7375
+The zigbee collision amount is 7338
+The zigbee success amount is 37
+The zigbee collision ratio is 0.994983
+The zigbee data amount is 2294
+The ratio is 0.000696444
+
+The load is 40
+The client_num is 20
+The total tx amount is 101458
+The total collision amount is 48719
+The total success amount is 52738
+The total data amount is 1.05458e+009
+The wifi tx amount is 94215
+The wifi collision amount is 41485
+The wifi success amount is 52729
+The wifi collision ratio is 0.440323
+The wifi data amount is 1.05458e+009
+
+The zigbee tx amount is 7243
+The zigbee collision amount is 7234
+The zigbee success amount is 9
+The zigbee collision ratio is 0.998757
+The zigbee data amount is 558
+The ratio is 0.000170655
+
+The load is 50
+The client_num is 20
+The total tx amount is 101379
+The total collision amount is 48427
+The total success amount is 52952
+The total data amount is 1.05852e+009
+The wifi tx amount is 94288
+The wifi collision amount is 41362
+The wifi success amount is 52926
+The wifi collision ratio is 0.438677
+The wifi data amount is 1.05852e+009
+
+The zigbee tx amount is 7091
+The zigbee collision amount is 7065
+The zigbee success amount is 26
+The zigbee collision ratio is 0.996333
+The zigbee data amount is 1612
+The ratio is 0.000491011
+
+The load is 60
+The client_num is 20
+The total tx amount is 101388
+The total collision amount is 48589
+The total success amount is 52799
+The total data amount is 1.05516e+009
+The wifi tx amount is 94167
+The wifi collision amount is 41409
+The wifi success amount is 52758
+The wifi collision ratio is 0.43974
+The wifi data amount is 1.05516e+009
+
+The zigbee tx amount is 7221
+The zigbee collision amount is 7180
+The zigbee success amount is 41
+The zigbee collision ratio is 0.994322
+The zigbee data amount is 2542
+The ratio is 0.00077653
+
+The load is 70
+The client_num is 20
+The total tx amount is 101399
+The total collision amount is 48407
+The total success amount is 52991
+The total data amount is 1.05918e+009
+The wifi tx amount is 94242
+The wifi collision amount is 41282
+The wifi success amount is 52959
+The wifi collision ratio is 0.438042
+The wifi data amount is 1.05918e+009
+
+The zigbee tx amount is 7157
+The zigbee collision amount is 7125
+The zigbee success amount is 32
+The zigbee collision ratio is 0.995529
+The zigbee data amount is 1984
+The ratio is 0.000603876
+
+The load is 80
+The client_num is 20
+The total tx amount is 101709
+The total collision amount is 48976
+The total success amount is 52732
+The total data amount is 1.05388e+009
+The wifi tx amount is 94204
+The wifi collision amount is 41509
+The wifi success amount is 52694
+The wifi collision ratio is 0.440629
+The wifi data amount is 1.05388e+009
+
+The zigbee tx amount is 7505
+The zigbee collision amount is 7467
+The zigbee success amount is 38
+The zigbee collision ratio is 0.994937
+The zigbee data amount is 2356
+The ratio is 0.000720625
+
+The load is 90
+The client_num is 20
+The total tx amount is 101313
+The total collision amount is 48442
+The total success amount is 52870
+The total data amount is 1.05688e+009
+The wifi tx amount is 94309
+The wifi collision amount is 41464
+The wifi success amount is 52844
+The wifi collision ratio is 0.439661
+The wifi data amount is 1.05688e+009
+
+The zigbee tx amount is 7004
+The zigbee collision amount is 6978
+The zigbee success amount is 26
+The zigbee collision ratio is 0.996288
+The zigbee data amount is 1612
+The ratio is 0.000491772
+
+The load is 100
+The client_num is 20
+The total tx amount is 101577
+The total collision amount is 48678
+The total success amount is 52898
+The total data amount is 1.05768e+009
+The wifi tx amount is 94302
+The wifi collision amount is 41417
+The wifi success amount is 52884
+The wifi collision ratio is 0.439195
+The wifi data amount is 1.05768e+009
+
+The zigbee tx amount is 7275
+The zigbee collision amount is 7261
+The zigbee success amount is 14
+The zigbee collision ratio is 0.998076
+The zigbee data amount is 868
+The ratio is 0.00026466
+
+
+
+The load is 10
+The client_num is 30
+The total tx amount is 116361
+The total collision amount is 61497
+The total success amount is 54864
+The total data amount is 5.98244e+008
+The wifi tx amount is 53242
+The wifi collision amount is 23408
+The wifi success amount is 29834
+The wifi collision ratio is 0.439653
+The wifi data amount is 5.9668e+008
+
+The zigbee tx amount is 63119
+The zigbee collision amount is 38089
+The zigbee success amount is 25030
+The zigbee collision ratio is 0.603447
+The zigbee data amount is 1551860
+The ratio is 0.456219
+
+The load is 20
+The client_num is 30
+The total tx amount is 104125
+The total collision amount is 54959
+The total success amount is 49165
+The total data amount is 9.82822e+008
+The wifi tx amount is 94919
+The wifi collision amount is 45777
+The wifi success amount is 49141
+The wifi collision ratio is 0.482274
+The wifi data amount is 9.8282e+008
+
+The zigbee tx amount is 9206
+The zigbee collision amount is 9182
+The zigbee success amount is 24
+The zigbee collision ratio is 0.997393
+The zigbee data amount is 1488
+The ratio is 0.000488152
+
+The load is 30
+The client_num is 30
+The total tx amount is 103399
+The total collision amount is 54012
+The total success amount is 49387
+The total data amount is 9.87441e+008
+The wifi tx amount is 95096
+The wifi collision amount is 45724
+The wifi success amount is 49372
+The wifi collision ratio is 0.480819
+The wifi data amount is 9.8744e+008
+
+The zigbee tx amount is 8303
+The zigbee collision amount is 8288
+The zigbee success amount is 15
+The zigbee collision ratio is 0.998193
+The zigbee data amount is 930
+The ratio is 0.000303724
+
+The load is 40
+The client_num is 30
+The total tx amount is 103741
+The total collision amount is 54618
+The total success amount is 49122
+The total data amount is 9.82221e+008
+The wifi tx amount is 95006
+The wifi collision amount is 45894
+The wifi success amount is 49111
+The wifi collision ratio is 0.483064
+The wifi data amount is 9.8222e+008
+
+The zigbee tx amount is 8735
+The zigbee collision amount is 8724
+The zigbee success amount is 11
+The zigbee collision ratio is 0.998741
+The zigbee data amount is 682
+The ratio is 0.000223932
+
+The load is 50
+The client_num is 30
+The total tx amount is 103756
+The total collision amount is 54526
+The total success amount is 49229
+The total data amount is 9.84241e+008
+The wifi tx amount is 95083
+The wifi collision amount is 45870
+The wifi success amount is 49212
+The wifi collision ratio is 0.482421
+The wifi data amount is 9.8424e+008
+
+The zigbee tx amount is 8673
+The zigbee collision amount is 8656
+The zigbee success amount is 17
+The zigbee collision ratio is 0.99804
+The zigbee data amount is 1054
+The ratio is 0.000345325
+
+The load is 60
+The client_num is 30
+The total tx amount is 103462
+The total collision amount is 54147
+The total success amount is 49315
+The total data amount is 9.85941e+008
+The wifi tx amount is 95071
+The wifi collision amount is 45774
+The wifi success amount is 49297
+The wifi collision ratio is 0.481472
+The wifi data amount is 9.8594e+008
+
+The zigbee tx amount is 8391
+The zigbee collision amount is 8373
+The zigbee success amount is 18
+The zigbee collision ratio is 0.997855
+The zigbee data amount is 1116
+The ratio is 0.000365001
+
+The load is 70
+The client_num is 30
+The total tx amount is 103490
+The total collision amount is 54191
+The total success amount is 49298
+The total data amount is 9.85661e+008
+The wifi tx amount is 95032
+The wifi collision amount is 45748
+The wifi success amount is 49283
+The wifi collision ratio is 0.481396
+The wifi data amount is 9.8566e+008
+
+The zigbee tx amount is 8458
+The zigbee collision amount is 8443
+The zigbee success amount is 15
+The zigbee collision ratio is 0.998227
+The zigbee data amount is 930
+The ratio is 0.000304272
+
+

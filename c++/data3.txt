@@ -1,0 +1,379 @@
+The load is 10
+The client_num is 20
+The wifi tx amount is 28589
+The wifi collision amount is 8668
+The wifi collision ratio is 0.303194
+The wifi data amount is 3.9842e+008
+The wifi delay is 0.919274
+
+The zigbee tx amount is 30364
+The zigbee collision amount is 12613
+The zigbee collision ratio is 0.415393
+The zigbee data amount is 1100562
+The zigbee delay is 25.2767
+
+The load is 20
+The client_num is 20
+The wifi tx amount is 71030
+The wifi collision amount is 31313
+The wifi collision ratio is 0.440842
+The wifi data amount is 7.9434e+008
+The wifi delay is 2.18037
+
+The zigbee tx amount is 45857
+The zigbee collision amount is 28209
+The zigbee collision ratio is 0.615151
+The zigbee data amount is 1094176
+The zigbee delay is 88.8041
+
+The load is 30
+The client_num is 20
+The wifi tx amount is 94155
+The wifi collision amount is 41278
+The wifi collision ratio is 0.438405
+The wifi data amount is 1.05752e+009
+The wifi delay is 2.24788
+
+The zigbee tx amount is 7508
+The zigbee collision amount is 7451
+The zigbee collision ratio is 0.992408
+The zigbee data amount is 3534
+The zigbee delay is 35068
+
+The load is 40
+The client_num is 20
+The wifi tx amount is 94252
+The wifi collision amount is 41357
+The wifi collision ratio is 0.438792
+The wifi data amount is 1.05788e+009
+The wifi delay is 2.27291
+
+The zigbee tx amount is 7234
+The zigbee collision amount is 7204
+The zigbee collision ratio is 0.995853
+The zigbee data amount is 1860
+The zigbee delay is 66621.2
+
+The load is 50
+The client_num is 20
+The wifi tx amount is 94263
+The wifi collision amount is 41444
+The wifi collision ratio is 0.439663
+The wifi data amount is 1.05636e+009
+The wifi delay is 2.28921
+
+The zigbee tx amount is 7061
+The zigbee collision amount is 7038
+The zigbee collision ratio is 0.996743
+The zigbee data amount is 1426
+The zigbee delay is 86894.1
+
+The load is 60
+The client_num is 20
+The wifi tx amount is 94196
+The wifi collision amount is 41299
+The wifi collision ratio is 0.438437
+The wifi data amount is 1.05792e+009
+The wifi delay is 2.27511
+
+The zigbee tx amount is 7173
+The zigbee collision amount is 7148
+The zigbee collision ratio is 0.996515
+The zigbee data amount is 1550
+The zigbee delay is 79946.2
+
+The load is 70
+The client_num is 20
+The wifi tx amount is 94275
+The wifi collision amount is 41470
+The wifi collision ratio is 0.439883
+The wifi data amount is 1.05608e+009
+The wifi delay is 2.28374
+
+The zigbee tx amount is 7067
+The zigbee collision amount is 7045
+The zigbee collision ratio is 0.996887
+The zigbee data amount is 1364
+The zigbee delay is 90838.8
+
+The load is 80
+The client_num is 20
+The wifi tx amount is 94253
+The wifi collision amount is 41505
+The wifi collision ratio is 0.440357
+The wifi data amount is 1.05496e+009
+The wifi delay is 2.2828
+
+The zigbee tx amount is 7190
+The zigbee collision amount is 7167
+The zigbee collision ratio is 0.996801
+The zigbee data amount is 1426
+The zigbee delay is 86890.2
+
+The load is 90
+The client_num is 20
+The wifi tx amount is 94342
+The wifi collision amount is 41372
+The wifi collision ratio is 0.438532
+The wifi data amount is 1.05938e+009
+The wifi delay is 2.24219
+
+The zigbee tx amount is 6816
+The zigbee collision amount is 6795
+The zigbee collision ratio is 0.996919
+The zigbee data amount is 1302
+The zigbee delay is 95171
+
+The load is 10
+The client_num is 30
+The wifi tx amount is 52958
+The wifi collision amount is 23109
+The wifi collision ratio is 0.436365
+The wifi data amount is 5.9698e+008
+The wifi delay is 2.33626
+
+The zigbee tx amount is 63330
+The zigbee collision amount is 38299
+The zigbee collision ratio is 0.604753
+The zigbee data amount is 1551922
+The zigbee delay is 61.5561
+****************************************************
+The load is 20
+The client_num is 30
+The wifi tx amount is 95030
+The wifi collision amount is 45684
+The wifi collision ratio is 0.480732
+The wifi data amount is 9.869e+008
+The wifi delay is 3.11563
+
+The zigbee tx amount is 8658
+The zigbee collision amount is 8638
+The zigbee collision ratio is 0.99769
+The zigbee data amount is 1240
+The zigbee delay is -64869.9
+
+The load is 30
+The client_num is 30
+The wifi tx amount is 95012
+The wifi collision amount is 45737
+The wifi collision ratio is 0.481381
+The wifi data amount is 9.8548e+008
+The wifi delay is 3.17407
+
+The zigbee tx amount is 8502
+The zigbee collision amount is 8489
+The zigbee collision ratio is 0.998471
+The zigbee data amount is 806
+The zigbee delay is -99767.6
+
+The load is 40
+The client_num is 30
+The wifi tx amount is 95030
+The wifi collision amount is 45829
+The wifi collision ratio is 0.482258
+The wifi data amount is 9.84e+008
+The wifi delay is 3.19136
+
+The zigbee tx amount is 8694
+The zigbee collision amount is 8684
+The zigbee collision ratio is 0.99885
+The zigbee data amount is 620
+The zigbee delay is -129687
+
+The load is 50
+The client_num is 30
+The wifi tx amount is 95058
+The wifi collision amount is 45779
+The wifi collision ratio is 0.48159
+The wifi data amount is 9.8556e+008
+The wifi delay is 3.16795
+
+The zigbee tx amount is 8544
+The zigbee collision amount is 8531
+The zigbee collision ratio is 0.998478
+The zigbee data amount is 806
+The zigbee delay is -99774.6
+
+The load is 60
+The client_num is 30
+The wifi tx amount is 95002
+The wifi collision amount is 45869
+The wifi collision ratio is 0.482821
+The wifi data amount is 9.8264e+008
+The wifi delay is 3.18917
+
+The zigbee tx amount is 8352
+The zigbee collision amount is 8336
+The zigbee collision ratio is 0.998084
+The zigbee data amount is 992
+The zigbee delay is -81096.3
+
+The load is 70
+The client_num is 30
+The wifi tx amount is 95067
+The wifi collision amount is 45879
+The wifi collision ratio is 0.482596
+The wifi data amount is 9.8374e+008
+The wifi delay is 3.18027
+
+The zigbee tx amount is 8611
+The zigbee collision amount is 8591
+The zigbee collision ratio is 0.997677
+The zigbee data amount is 1240
+The zigbee delay is -64913
+
+
+The load is 10
+The client_num is 10
+The wifi tx amount is 11717
+The wifi collision amount is 1730
+The wifi collision ratio is 0.147649
+The wifi data amount is 1.9974e+008
+The wifi delay is 0.383511
+
+The zigbee tx amount is 12551
+The zigbee collision amount is 3128
+The zigbee collision ratio is 0.249223
+The zigbee data amount is 584226
+The zigbee delay is 10.1709
+
+The load is 20
+The client_num is 10
+The wifi tx amount is 26338
+The wifi collision amount is 6417
+The wifi collision ratio is 0.24364
+The wifi data amount is 3.9842e+008
+The wifi delay is 0.581459
+
+The zigbee tx amount is 13471
+The zigbee collision amount is 4034
+The zigbee collision ratio is 0.299458
+The zigbee data amount is 585094
+The zigbee delay is 20.4859
+
+The load is 30
+The client_num is 10
+The wifi tx amount is 43982
+The wifi collision amount is 14149
+The wifi collision ratio is 0.3217
+The wifi data amount is 5.9666e+008
+The wifi delay is 0.841233
+
+The zigbee tx amount is 14170
+The zigbee collision amount is 4762
+The zigbee collision ratio is 0.336062
+The zigbee data amount is 583296
+The zigbee delay is 34.1979
+
+The load is 40
+The client_num is 10
+The wifi tx amount is 61961
+The wifi collision amount is 22237
+The wifi collision ratio is 0.358887
+The wifi data amount is 7.9448e+008
+The wifi delay is 1.06473
+
+The zigbee tx amount is 16949
+The zigbee collision amount is 7539
+The zigbee collision ratio is 0.444805
+The zigbee data amount is 583420
+The zigbee delay is 58.4913
+
+The load is 50
+The client_num is 10
+The wifi tx amount is 78157
+The wifi collision amount is 28552
+The wifi collision ratio is 0.365316
+The wifi data amount is 9.921e+008
+The wifi delay is 1.1988
+
+The zigbee tx amount is 20677
+The zigbee collision amount is 11239
+The zigbee collision ratio is 0.543551
+The zigbee data amount is 585156
+The zigbee delay is 91.1316
+
+The load is 60
+The client_num is 10
+The wifi tx amount is 92160
+The wifi collision amount is 33071
+The wifi collision ratio is 0.358843
+The wifi data amount is 1.18176e+009
+The wifi delay is 1.2117
+
+The zigbee tx amount is 6211
+The zigbee collision amount is 5965
+The zigbee collision ratio is 0.960393
+The zigbee data amount is 15252
+The zigbee delay is 4061.3
+
+The load is 70
+The client_num is 10
+The wifi tx amount is 92917
+The wifi collision amount is 33954
+The wifi collision ratio is 0.365423
+The wifi data amount is 1.17926e+009
+The wifi delay is 1.2746
+
+The zigbee tx amount is 4947
+The zigbee collision amount is 4912
+The zigbee collision ratio is 0.992925
+The zigbee data amount is 2170
+The zigbee delay is 28558.9
+***********************************************************************
+The load is 20
+The client_num is 10
+The wifi tx amount is 26391
+The wifi collision amount is 6455
+The wifi collision ratio is 0.244591
+The wifi data amount is 3.9872e+008
+The wifi delay is 0.581946
+
+The zigbee tx amount is 13422
+The zigbee collision amount is 4058
+The zigbee collision ratio is 0.302339
+The zigbee data amount is 580568
+The zigbee delay is 20.4809
+
+The load is 20
+The client_num is 20
+The wifi tx amount is 70560
+The wifi collision amount is 30876
+The wifi collision ratio is 0.437585
+The wifi data amount is 7.9368e+008
+The wifi delay is 2.12741
+
+The zigbee tx amount is 45059
+The zigbee collision amount is 27343
+The zigbee collision ratio is 0.606827
+The zigbee data amount is 1098392
+The zigbee delay is 86.932
+
+The load is 20
+The client_num is 30
+The wifi tx amount is 94987
+The wifi collision amount is 45586
+The wifi collision ratio is 0.479918
+The wifi data amount is 9.8802e+008
+The wifi delay is 3.1446
+
+The zigbee tx amount is 8923
+The zigbee collision amount is 8904
+The zigbee collision ratio is 0.997871
+The zigbee data amount is 1178
+The zigbee delay is -68308.2
+
+The load is 20
+The client_num is 40
+The wifi tx amount is 95567
+The wifi collision amount is 49082
+The wifi collision ratio is 0.513587
+The wifi data amount is 9.2968e+008
+The wifi delay is 4.05505
+
+The zigbee tx amount is 9562
+The zigbee collision amount is 9557
+The zigbee collision ratio is 0.999477
+The zigbee data amount is 310
+The zigbee delay is -59754.4
+

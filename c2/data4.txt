@@ -1,0 +1,40 @@
+load is 10
+client_num is 240
+0.0769892 5.1614 2.18991e+007 
+
+load is 50
+client_num is 240
+0.284462 4.94373 1.09021e+008 
+
+load is 100
+client_num is 240
+0.35355 8.51092 1.81675e+008 
+
+load is 150
+client_num is 240
+0.33885 8.8027 2.17591e+008 
+
+load is 200
+client_num is 240
+0.323725 8.65548 2.35198e+008 
+
+load is 500
+client_num is 240
+0.26038 8.10882 2.70323e+008 
+
+load is 150
+client_num is 240
+0.329456 8.60512 2.18735e+008 
+
+load is 200
+client_num is 240
+0.321806 8.63713 2.35542e+008 
+
+load is 20
+client_num is 240
+0.116687 3.95957 4.36642e+007 
+
+load is 300
+client_num is 240
+0.286374 8.40908 2.53124e+008 
+

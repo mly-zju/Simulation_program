@@ -1,0 +1,49 @@
+clc;
+x=[0 50 100 150 200 250 300];
+wifi_tx=zeros(1,7);
+wifi_collision=zeros(1,7);
+wifi_succceed=zeros(1,7);
+wifi_throughput=zeros(1,7);
+wifi_delay=zeros(1,7);
+wifi_collision_p=zeros(1,7);
+
+wifi_tx2=zeros(1,7);
+wifi_collision2=zeros(1,7);
+wifi_succceed2=zeros(1,7);
+wifi_throughput2=zeros(1,7);
+wifi_delay2=zeros(1,7);
+wifi_collison_p2=zeros(1,7);
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+wifi_collision_p=[0 0.300196 0.322888 0.341162 0.361166 0.364 0.368166];
+wifi_delay=[0 7.95208 8.34222 8.6227 8.70205 8.78205];
+wifi_throughput=[0 9.70694 15.5472 18.6392 21.0281 25.7593];
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+wifi_collision_p2=[0 0.26038 0.284462 0.323725 0.33885 0.344 0.35355];
+wifi_delay2=[0 4.94373 8.10882 8.33766 8.51092 8.68512];
+wifi_throughput2=[0 10.9021 18.1675 21.7591 23.5198 27.0323];
+
+figure(1);
+hold on;
+grid on;
+plot(x,wifi_collision_p,'-*r');
+plot(x,wifi_collision_p2,'-ob');
+legend('wifi system without hierarchical structure','wifi system with hierarchical structure','location','northwest');
+xlabel('data load(pk/s)');
+ylabel('collision probability');
+figure(2);
+hold on;
+grid on;
+plot(x,wifi_throughput,'-*r');
+plot(x,wifi_throughput2,'-ob');
+xlabel('data load(pk/s)');
+ylabel('Throughput (Mbps/s)');
+legend('wifi system without hierarchical structure','wifi system with hierarchical structure','location','northwest');
+figure(3);
+hold on;
+grid on;
+plot(x,wifi_delay,'-*r');
+plot(x,wifi_delay2,'-ob');
+legend('wifi system without hierarchical structure','wifi system with hierarchical structure','location','northwest');
+xlabel('data load(pk/s)');
+ylabel('Delay (s)');

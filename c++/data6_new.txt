@@ -1,0 +1,86 @@
+load is 10
+client_num is 200
+0.0535665 6.22035 1.79673e+007 
+
+load is 15
+client_num is 200
+0.0669332 5.39726 2.67667e+007 
+
+load is 20
+client_num is 200
+0.087812 4.21151 3.62932e+007 
+
+load is 25
+client_num is 200
+0.101377 3.23393 4.60006e+007 
+
+load is 30
+client_num is 200
+0.128492 3.40724 5.47292e+007 
+
+load is 35
+client_num is 200
+0.138115 3.54384 6.27203e+007 
+
+load is 40
+client_num is 200
+0.164391 3.70912 7.14299e+007 
+
+load is 45
+client_num is 200
+0.193499 3.6829 8.14718e+007 
+
+load is 50
+client_num is 200
+0.204837 3.83152 9.05553e+007 
+
+load is 55
+client_num is 200
+0.223 3.84017 9.84018e+007 
+
+************************************
+
+load is 10
+client_num is 200
+0.0536822 6.41036 1.79169e+007 
+
+load is 20
+client_num is 200
+0.0914439 4.02864 3.6415e+007 
+
+load is 30
+client_num is 200
+0.129087 3.0907 5.51668e+007 
+
+load is 40
+client_num is 200
+0.168522 3.10928 7.31386e+007 
+
+load is 50
+client_num is 200
+0.199754 3.32376 9.07006e+007 
+
+load is 60
+client_num is 200
+0.257103 4.13464 1.08963e+008 
+
+load is 70
+client_num is 200
+0.29382 5.17894 1.26346e+008 
+
+load is 80
+client_num is 200
+0.312198 5.49044 1.41915e+008 
+
+load is 100
+client_num is 200
+0.321689 6.36995 1.68256e+008 
+
+load is 120
+client_num is 200
+0.318821 6.8888 1.88203e+008 
+
+load is 140
+client_num is 200
+0.315739 6.98805 2.0351e+008 
+

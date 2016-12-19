@@ -1,0 +1,4 @@
+x=0:9
+hop1=zeros(1,10);
+hop2=zeros(1,10);
+hop1=[0 

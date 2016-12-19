@@ -1,0 +1,36 @@
+load is 10
+client_num is 240
+0.235382 3.82078 2.18509e+007 
+
+load is 50
+client_num is 240
+0.361166 8.34222 9.70694e+007 
+
+load is 100
+client_num is 240
+0.341162 8.6227 1.55472e+008 
+
+load is 150
+client_num is 240
+0.322888 8.70205 1.86392e+008 
+
+load is 200
+client_num is 240
+0.301889 8.38106 2.10281e+008 
+
+load is 200
+client_num is 240
+0.3019 8.55227 2.04116e+008 
+
+load is 500
+client_num is 240
+0.268342 7.95208 2.57593e+008 
+
+load is 20
+client_num is 240
+0.300196 5.34591 4.28968e+007 
+
+load is 300
+client_num is 240
+0.28523 8.33766 2.29938e+008 
+
